@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T06:05:40.735Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="3PZwZiAUXg0y8hmNu6sZ" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T06:06:54.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="C481KoB_XcvYNAPn2Vg_" version="21.6.5" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1780" dy="1564" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="1">
       <root>
@@ -105,9 +105,6 @@
         </mxCell>
         <mxCell id="JVdptQY95MM00BN9dN_g-26" value="type TransceiverStats struct {&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;div&gt;objectName&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/div&gt;&lt;div&gt;StartTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;EndTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;ObjectUnitID&amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="199" y="-116" width="182" height="146" as="geometry" />
-        </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-66" value="File name :csvinfomodel.go" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="234" y="-146" width="112" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JVdptQY95MM00BN9dN_g-68" value="File name :csvinfomodel.go" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="196" y="560" width="112" height="30" as="geometry" />
