@@ -1,18 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T13:10:08.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="liLAck6xWQs_95ui712d" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-01T06:44:41.696Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="n7XT3ZXglb3pmYy-958U" version="21.6.6" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="3090" dy="1918" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="1">
+    <mxGraphModel dx="2890" dy="2000" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JVdptQY95MM00BN9dN_g-56" value="type Data struct {&#xa;objectidentifier int&#xa;objectName       string&#xa;}" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+        <mxCell id="JVdptQY95MM00BN9dN_g-56" value="type Data struct {&#xa;objectidentifier int&#xa;objectName       string&#xa;}" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" parent="1" vertex="1">
           <mxGeometry x="-168" y="42" width="168" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=1;" edge="1" parent="1" source="JVdptQY95MM00BN9dN_g-2">
+        <mxCell id="JVdptQY95MM00BN9dN_g-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=1;" parent="1" source="JVdptQY95MM00BN9dN_g-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="69" y="301" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.017;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" edge="1" parent="1" target="JVdptQY95MM00BN9dN_g-56">
+        <mxCell id="JVdptQY95MM00BN9dN_g-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.017;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" parent="1" target="JVdptQY95MM00BN9dN_g-56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300.72" y="276.03" as="sourcePoint" />
             <mxPoint x="70" y="42" as="targetPoint" />
@@ -24,13 +24,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-2" value="&lt;div&gt;func ReadCsvData()string Data{&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;return csvInputData&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="1">
+        <mxCell id="JVdptQY95MM00BN9dN_g-2" value="&lt;div&gt;func ReadCsvData()string Data{&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;return csvInputData&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="294" y="266" width="196" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;" edge="1" parent="1" source="JVdptQY95MM00BN9dN_g-4" target="JVdptQY95MM00BN9dN_g-26">
+        <mxCell id="JVdptQY95MM00BN9dN_g-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;" parent="1" source="JVdptQY95MM00BN9dN_g-4" target="JVdptQY95MM00BN9dN_g-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=1;" edge="1" parent="1" source="JVdptQY95MM00BN9dN_g-4" target="JVdptQY95MM00BN9dN_g-2">
+        <mxCell id="JVdptQY95MM00BN9dN_g-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=1;" parent="1" source="JVdptQY95MM00BN9dN_g-4" target="JVdptQY95MM00BN9dN_g-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="425" y="14" />
@@ -38,16 +38,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.622;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" edge="1" parent="1" source="JVdptQY95MM00BN9dN_g-4" target="JVdptQY95MM00BN9dN_g-10">
+        <mxCell id="JVdptQY95MM00BN9dN_g-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.622;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" parent="1" source="JVdptQY95MM00BN9dN_g-4" target="JVdptQY95MM00BN9dN_g-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-4" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;func transceiverStats(dataSlice []Data) {&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;return&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
+        <mxCell id="JVdptQY95MM00BN9dN_g-4" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;func transceiverStats(dataSlice []Data) {&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;return&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="-18" width="280" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;" edge="1" parent="1" source="JVdptQY95MM00BN9dN_g-6" target="JVdptQY95MM00BN9dN_g-27">
+        <mxCell id="JVdptQY95MM00BN9dN_g-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;" parent="1" source="JVdptQY95MM00BN9dN_g-6" target="JVdptQY95MM00BN9dN_g-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;shadow=1;" edge="1" parent="1" source="JVdptQY95MM00BN9dN_g-6" target="JVdptQY95MM00BN9dN_g-2">
+        <mxCell id="JVdptQY95MM00BN9dN_g-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;shadow=1;" parent="1" source="JVdptQY95MM00BN9dN_g-6" target="JVdptQY95MM00BN9dN_g-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="150" as="sourcePoint" />
             <mxPoint x="455" y="210" as="targetPoint" />
@@ -57,13 +57,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;shadow=1;" edge="1" parent="1" source="JVdptQY95MM00BN9dN_g-6" target="JVdptQY95MM00BN9dN_g-10">
+        <mxCell id="JVdptQY95MM00BN9dN_g-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;shadow=1;" parent="1" source="JVdptQY95MM00BN9dN_g-6" target="JVdptQY95MM00BN9dN_g-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-6" value="&lt;div&gt;func rxWindowStatsFile(dataSlice []Data) {&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
+        <mxCell id="JVdptQY95MM00BN9dN_g-6" value="&lt;div&gt;func rxWindowStatsFile(dataSlice []Data) {&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="528.5" y="140" width="233" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=1;" edge="1" parent="1" source="JVdptQY95MM00BN9dN_g-7" target="JVdptQY95MM00BN9dN_g-28">
+        <mxCell id="JVdptQY95MM00BN9dN_g-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=1;" parent="1" source="JVdptQY95MM00BN9dN_g-7" target="JVdptQY95MM00BN9dN_g-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="490" y="453" />
@@ -71,66 +71,66 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;shadow=1;" edge="1" parent="1" source="JVdptQY95MM00BN9dN_g-7" target="JVdptQY95MM00BN9dN_g-10">
+        <mxCell id="JVdptQY95MM00BN9dN_g-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;shadow=1;" parent="1" source="JVdptQY95MM00BN9dN_g-7" target="JVdptQY95MM00BN9dN_g-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.568;entryY=1.048;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" edge="1" parent="1" source="JVdptQY95MM00BN9dN_g-7" target="JVdptQY95MM00BN9dN_g-2">
+        <mxCell id="JVdptQY95MM00BN9dN_g-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.568;entryY=1.048;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" parent="1" source="JVdptQY95MM00BN9dN_g-7" target="JVdptQY95MM00BN9dN_g-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-7" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;func txMeasurementObjects(dataSlice []Data) {&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;}&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
+        <mxCell id="JVdptQY95MM00BN9dN_g-7" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;func txMeasurementObjects(dataSlice []Data) {&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;}&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="532" y="392" width="252" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.011;entryY=0.637;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" edge="1" parent="1" source="JVdptQY95MM00BN9dN_g-8" target="JVdptQY95MM00BN9dN_g-30">
+        <mxCell id="JVdptQY95MM00BN9dN_g-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.011;entryY=0.637;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" parent="1" source="JVdptQY95MM00BN9dN_g-8" target="JVdptQY95MM00BN9dN_g-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.622;entryY=1.037;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" edge="1" parent="1" source="JVdptQY95MM00BN9dN_g-8" target="JVdptQY95MM00BN9dN_g-10">
+        <mxCell id="JVdptQY95MM00BN9dN_g-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.622;entryY=1.037;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" parent="1" source="JVdptQY95MM00BN9dN_g-8" target="JVdptQY95MM00BN9dN_g-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-8" value="func epeMeasurementGroup(dataSlice []Data) {&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
+        <mxCell id="JVdptQY95MM00BN9dN_g-8" value="func epeMeasurementGroup(dataSlice []Data) {&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="528.5" y="588" width="259" height="122" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;" edge="1" parent="1" source="JVdptQY95MM00BN9dN_g-10" target="JVdptQY95MM00BN9dN_g-86">
+        <mxCell id="JVdptQY95MM00BN9dN_g-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;" parent="1" source="JVdptQY95MM00BN9dN_g-10" target="JVdptQY95MM00BN9dN_g-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-10" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;func uploadCsvFile(dataSlice3, filename) {&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
+        <mxCell id="JVdptQY95MM00BN9dN_g-10" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;func uploadCsvFile(dataSlice3, filename) {&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="826" y="168" width="210" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-27" value="&lt;div&gt;type EpeStats struct {&lt;/div&gt;&lt;div&gt;measurementObjectIdentifier string&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;measurementObjectName&amp;nbsp; &amp;nbsp; string&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;startTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;endTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;count&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;shadow=1;" vertex="1" parent="1">
+        <mxCell id="JVdptQY95MM00BN9dN_g-27" value="&lt;div&gt;type EpeStats struct {&lt;/div&gt;&lt;div&gt;measurementObjectIdentifier string&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;measurementObjectName&amp;nbsp; &amp;nbsp; string&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;startTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;endTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;count&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="168" y="56" width="208" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-28" value="&lt;div&gt;type TxMeasurementObjects struct {&lt;/div&gt;&lt;div&gt;measurementObjectIdentifier string&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;measurementObjectName&amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;startTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;endTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;count&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;shadow=1;" vertex="1" parent="1">
+        <mxCell id="JVdptQY95MM00BN9dN_g-28" value="&lt;div&gt;type TxMeasurementObjects struct {&lt;/div&gt;&lt;div&gt;measurementObjectIdentifier string&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;measurementObjectName&amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;startTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;endTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;count&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="128" y="392" width="253" height="122" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-30" value="&lt;div&gt;type EpeStats struct {&lt;/div&gt;&lt;div&gt;&amp;nbsp;measurementObjectIdentifier string&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;measurementObjectName&amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;startTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;endTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;count&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;shadow=1;" vertex="1" parent="1">
+        <mxCell id="JVdptQY95MM00BN9dN_g-30" value="&lt;div&gt;type EpeStats struct {&lt;/div&gt;&lt;div&gt;&amp;nbsp;measurementObjectIdentifier string&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;measurementObjectName&amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;startTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;endTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;count&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="128" y="574" width="238" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-26" value="type TransceiverStats struct {&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;div&gt;objectName&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/div&gt;&lt;div&gt;startTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;endTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;objectUnitID&amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;shadow=1;" vertex="1" parent="1">
+        <mxCell id="JVdptQY95MM00BN9dN_g-26" value="type TransceiverStats struct {&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;div&gt;objectName&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/div&gt;&lt;div&gt;startTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;endTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;objectUnitID&amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="168" y="-112" width="182" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-86" value="Server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
+        <mxCell id="JVdptQY95MM00BN9dN_g-86" value="Server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1177" y="169" width="196" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-89" value="CSV File" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="1">
+        <mxCell id="JVdptQY95MM00BN9dN_g-89" value="CSV File" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-14" y="258" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" edge="1" parent="1" source="JVdptQY95MM00BN9dN_g-7" target="JVdptQY95MM00BN9dN_g-7">
+        <mxCell id="JVdptQY95MM00BN9dN_g-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" parent="1" source="JVdptQY95MM00BN9dN_g-7" target="JVdptQY95MM00BN9dN_g-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object label="Untitled Layer" id="JVdptQY95MM00BN9dN_g-93">
           <mxCell parent="0" />
         </object>
-        <mxCell id="JVdptQY95MM00BN9dN_g-126" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#FF3399;fontColor=#333333;gradientColor=none;fillStyle=auto;shadow=1;" vertex="1" parent="JVdptQY95MM00BN9dN_g-93">
+        <mxCell id="JVdptQY95MM00BN9dN_g-126" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#FF3399;fontColor=#333333;gradientColor=none;fillStyle=auto;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" vertex="1">
           <mxGeometry x="-322" y="-241" width="1904" height="1582" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-117" value="type Data struct {&#xa;objectidentifier int&#xa;objectName       string&#xa;}" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="JVdptQY95MM00BN9dN_g-93">
+        <mxCell id="JVdptQY95MM00BN9dN_g-117" value="type Data struct {&#xa;objectidentifier int&#xa;objectName       string&#xa;}" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" parent="JVdptQY95MM00BN9dN_g-93" vertex="1">
           <mxGeometry x="-154" y="28" width="168" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=1;" edge="1" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-96">
+        <mxCell id="JVdptQY95MM00BN9dN_g-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-96" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="69" y="301" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.017;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" edge="1" parent="JVdptQY95MM00BN9dN_g-93" target="JVdptQY95MM00BN9dN_g-117">
+        <mxCell id="JVdptQY95MM00BN9dN_g-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.017;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" target="JVdptQY95MM00BN9dN_g-117" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300.72" y="276.03" as="sourcePoint" />
             <mxPoint x="70" y="42" as="targetPoint" />
@@ -142,29 +142,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-96" value="&lt;div&gt;func ReadCsvData()string Data{&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;return csvInputData&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="JVdptQY95MM00BN9dN_g-93">
+        <mxCell id="JVdptQY95MM00BN9dN_g-96" value="&lt;div&gt;func ReadCsvData()string Data{&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;return csvInputData&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" vertex="1">
           <mxGeometry x="294" y="266" width="196" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;" edge="1" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-100" target="JVdptQY95MM00BN9dN_g-118">
+        <mxCell id="JVdptQY95MM00BN9dN_g-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-100" target="JVdptQY95MM00BN9dN_g-118" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.622;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" edge="1" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-100" target="JVdptQY95MM00BN9dN_g-113">
+        <mxCell id="JVdptQY95MM00BN9dN_g-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.622;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-100" target="JVdptQY95MM00BN9dN_g-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EB5QmTqRzo-4VSpFFsdC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-100" target="JVdptQY95MM00BN9dN_g-96">
+        <mxCell id="EB5QmTqRzo-4VSpFFsdC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-100" target="JVdptQY95MM00BN9dN_g-96" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="441" y="14" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-100" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;func transceiverStats(dataSlice []Data) {&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;return&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;}&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="JVdptQY95MM00BN9dN_g-93">
+        <mxCell id="JVdptQY95MM00BN9dN_g-100" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;func transceiverStats(dataSlice []Data) {&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;return&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;}&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" vertex="1">
           <mxGeometry x="518" y="-18" width="280" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;" edge="1" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-104" target="JVdptQY95MM00BN9dN_g-114">
+        <mxCell id="JVdptQY95MM00BN9dN_g-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-104" target="JVdptQY95MM00BN9dN_g-114" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;shadow=1;" edge="1" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-104">
+        <mxCell id="JVdptQY95MM00BN9dN_g-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-104" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="150" as="sourcePoint" />
             <mxPoint x="462" y="266" as="targetPoint" />
@@ -174,13 +174,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;shadow=1;" edge="1" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-104" target="JVdptQY95MM00BN9dN_g-113">
+        <mxCell id="JVdptQY95MM00BN9dN_g-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-104" target="JVdptQY95MM00BN9dN_g-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-104" value="&lt;div&gt;&lt;b&gt;func rxWindowStatsFile(dataSlice []Data) {&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;}&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="JVdptQY95MM00BN9dN_g-93">
+        <mxCell id="JVdptQY95MM00BN9dN_g-104" value="&lt;div&gt;&lt;b&gt;func rxWindowStatsFile(dataSlice []Data) {&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;}&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" vertex="1">
           <mxGeometry x="528.5" y="140" width="233" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=1;" edge="1" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-108" target="JVdptQY95MM00BN9dN_g-115">
+        <mxCell id="JVdptQY95MM00BN9dN_g-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-108" target="JVdptQY95MM00BN9dN_g-115" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="490" y="453" />
@@ -188,52 +188,52 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;shadow=1;" edge="1" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-108" target="JVdptQY95MM00BN9dN_g-113">
+        <mxCell id="JVdptQY95MM00BN9dN_g-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-108" target="JVdptQY95MM00BN9dN_g-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.568;entryY=1.048;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" edge="1" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-108" target="JVdptQY95MM00BN9dN_g-96">
+        <mxCell id="JVdptQY95MM00BN9dN_g-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.568;entryY=1.048;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-108" target="JVdptQY95MM00BN9dN_g-96" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-108" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;func txMeasurementObjects(dataSlice []Data) {&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;}&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="JVdptQY95MM00BN9dN_g-93">
+        <mxCell id="JVdptQY95MM00BN9dN_g-108" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;func txMeasurementObjects(dataSlice []Data) {&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;}&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" vertex="1">
           <mxGeometry x="532" y="392" width="252" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.011;entryY=0.637;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" edge="1" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-111" target="JVdptQY95MM00BN9dN_g-116">
+        <mxCell id="JVdptQY95MM00BN9dN_g-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.011;entryY=0.637;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-111" target="JVdptQY95MM00BN9dN_g-116" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.622;entryY=1.037;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" edge="1" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-111" target="JVdptQY95MM00BN9dN_g-113">
+        <mxCell id="JVdptQY95MM00BN9dN_g-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.622;entryY=1.037;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-111" target="JVdptQY95MM00BN9dN_g-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-111" value="&lt;b&gt;func epeMeasurementGroup(dataSlice []Data) {&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;}&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="JVdptQY95MM00BN9dN_g-93">
+        <mxCell id="JVdptQY95MM00BN9dN_g-111" value="&lt;b&gt;func epeMeasurementGroup(dataSlice []Data) {&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;}&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" vertex="1">
           <mxGeometry x="528.5" y="588" width="259" height="122" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;" edge="1" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-113" target="JVdptQY95MM00BN9dN_g-119">
+        <mxCell id="JVdptQY95MM00BN9dN_g-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-113" target="JVdptQY95MM00BN9dN_g-119" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-113" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;func uploadCsvFile(dataSlice3, filename) {&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="JVdptQY95MM00BN9dN_g-93">
+        <mxCell id="JVdptQY95MM00BN9dN_g-113" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;func uploadCsvFile(dataSlice3, filename) {&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" vertex="1">
           <mxGeometry x="826" y="168" width="210" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-114" value="&lt;div&gt;type EpeStats struct {&lt;/div&gt;&lt;div&gt;measurementObjectIdentifier string&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;measurementObjectName&amp;nbsp; &amp;nbsp; string&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;startTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;endTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;count&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;shadow=1;" vertex="1" parent="JVdptQY95MM00BN9dN_g-93">
+        <mxCell id="JVdptQY95MM00BN9dN_g-114" value="&lt;div&gt;type EpeStats struct {&lt;/div&gt;&lt;div&gt;measurementObjectIdentifier string&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;measurementObjectName&amp;nbsp; &amp;nbsp; string&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;startTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;endTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;count&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" vertex="1">
           <mxGeometry x="168" y="56" width="208" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-115" value="&lt;div&gt;type TxMeasurementObjects struct {&lt;/div&gt;&lt;div&gt;measurementObjectIdentifier string&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;measurementObjectName&amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;startTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;endTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;count&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;shadow=1;" vertex="1" parent="JVdptQY95MM00BN9dN_g-93">
+        <mxCell id="JVdptQY95MM00BN9dN_g-115" value="&lt;div&gt;type TxMeasurementObjects struct {&lt;/div&gt;&lt;div&gt;measurementObjectIdentifier string&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;measurementObjectName&amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;startTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;endTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;count&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" vertex="1">
           <mxGeometry x="128" y="392" width="253" height="122" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-116" value="&lt;div&gt;type EpeStats struct {&lt;/div&gt;&lt;div&gt;&amp;nbsp;measurementObjectIdentifier string&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;measurementObjectName&amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;startTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;endTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;count&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;shadow=1;" vertex="1" parent="JVdptQY95MM00BN9dN_g-93">
+        <mxCell id="JVdptQY95MM00BN9dN_g-116" value="&lt;div&gt;type EpeStats struct {&lt;/div&gt;&lt;div&gt;&amp;nbsp;measurementObjectIdentifier string&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;measurementObjectName&amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;startTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;endTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;count&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" vertex="1">
           <mxGeometry x="128" y="574" width="238" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-118" value="type TransceiverStats struct {&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;div&gt;objectName&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/div&gt;&lt;div&gt;startTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;endTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;objectUnitID&amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;shadow=1;" vertex="1" parent="JVdptQY95MM00BN9dN_g-93">
+        <mxCell id="JVdptQY95MM00BN9dN_g-118" value="type TransceiverStats struct {&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;div&gt;objectName&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/div&gt;&lt;div&gt;startTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;endTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;objectUnitID&amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" vertex="1">
           <mxGeometry x="168" y="-98" width="182" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-119" value="Server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="JVdptQY95MM00BN9dN_g-93">
+        <mxCell id="JVdptQY95MM00BN9dN_g-119" value="SFTP SERVER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" vertex="1">
           <mxGeometry x="1177" y="169" width="196" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-120" value="CSV File" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="JVdptQY95MM00BN9dN_g-93">
+        <mxCell id="JVdptQY95MM00BN9dN_g-120" value="CSV File" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" vertex="1">
           <mxGeometry x="-126" y="258" width="192" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" edge="1" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-108" target="JVdptQY95MM00BN9dN_g-108">
+        <mxCell id="JVdptQY95MM00BN9dN_g-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-108" target="JVdptQY95MM00BN9dN_g-108" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-129" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-126" target="JVdptQY95MM00BN9dN_g-126">
+        <mxCell id="JVdptQY95MM00BN9dN_g-129" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-126" target="JVdptQY95MM00BN9dN_g-126" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="434" y="-28" as="sourcePoint" />
             <mxPoint x="514" y="-28" as="targetPoint" />
@@ -242,7 +242,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-130" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-126" target="JVdptQY95MM00BN9dN_g-126">
+        <mxCell id="JVdptQY95MM00BN9dN_g-130" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-126" target="JVdptQY95MM00BN9dN_g-126" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="434" y="56" as="sourcePoint" />
             <mxPoint x="514" y="56" as="targetPoint" />
@@ -251,29 +251,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-126" target="JVdptQY95MM00BN9dN_g-126">
+        <mxCell id="JVdptQY95MM00BN9dN_g-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="JVdptQY95MM00BN9dN_g-93" source="JVdptQY95MM00BN9dN_g-126" target="JVdptQY95MM00BN9dN_g-126" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EB5QmTqRzo-4VSpFFsdC-1" value="" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JVdptQY95MM00BN9dN_g-93">
+        <mxCell id="EB5QmTqRzo-4VSpFFsdC-1" value="" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JVdptQY95MM00BN9dN_g-93" vertex="1">
           <mxGeometry x="112" y="-154" width="294" height="910" as="geometry" />
         </mxCell>
         <mxCell id="JVdptQY95MM00BN9dN_g-136" value="Untitled Layer" parent="0" />
-        <mxCell id="EB5QmTqRzo-4VSpFFsdC-2" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JVdptQY95MM00BN9dN_g-136">
+        <mxCell id="EB5QmTqRzo-4VSpFFsdC-2" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JVdptQY95MM00BN9dN_g-136" vertex="1">
           <mxGeometry x="686" y="336" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EB5QmTqRzo-4VSpFFsdC-3" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JVdptQY95MM00BN9dN_g-136">
+        <mxCell id="EB5QmTqRzo-4VSpFFsdC-3" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JVdptQY95MM00BN9dN_g-136" vertex="1">
           <mxGeometry x="686" y="154" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EB5QmTqRzo-4VSpFFsdC-7" value="p" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JVdptQY95MM00BN9dN_g-136">
+        <mxCell id="EB5QmTqRzo-4VSpFFsdC-7" value="p" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JVdptQY95MM00BN9dN_g-136" vertex="1">
           <mxGeometry x="504" y="-112" width="560" height="840" as="geometry" />
         </mxCell>
-        <mxCell id="EB5QmTqRzo-4VSpFFsdC-11" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;csvModelBuilder.Go&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JVdptQY95MM00BN9dN_g-136">
+        <mxCell id="EB5QmTqRzo-4VSpFFsdC-11" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;csvModelBuilder.Go&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JVdptQY95MM00BN9dN_g-136" vertex="1">
           <mxGeometry x="714" y="-98" width="154" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EB5QmTqRzo-4VSpFFsdC-12" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JVdptQY95MM00BN9dN_g-136">
+        <mxCell id="EB5QmTqRzo-4VSpFFsdC-12" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JVdptQY95MM00BN9dN_g-136" vertex="1">
           <mxGeometry x="322" y="56" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EB5QmTqRzo-4VSpFFsdC-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;CsvInfoModel.GO&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JVdptQY95MM00BN9dN_g-136">
+        <mxCell id="EB5QmTqRzo-4VSpFFsdC-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;CsvInfoModel.GO&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JVdptQY95MM00BN9dN_g-136" vertex="1">
           <mxGeometry x="196" y="-142" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
