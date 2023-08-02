@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T08:47:29.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="wsf8l3ZrLjBhE8kohvVe" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-02T10:40:42.758Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="lGtFKB5DDtT7dNN_bzAa" version="21.6.6" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2410" dy="1932" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="1">
       <root>
@@ -223,7 +223,7 @@
         <mxCell id="JVdptQY95MM00BN9dN_g-118" value="type TransceiverStats struct {&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;div&gt;objectName&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/div&gt;&lt;div&gt;startTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;endTime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;objectUnitID&amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" vertex="1">
           <mxGeometry x="168" y="-98" width="182" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="JVdptQY95MM00BN9dN_g-119" value="SFTP SERVER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" vertex="1">
+        <mxCell id="JVdptQY95MM00BN9dN_g-119" value="SFTP&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" vertex="1">
           <mxGeometry x="1177" y="169" width="196" height="98" as="geometry" />
         </mxCell>
         <mxCell id="JVdptQY95MM00BN9dN_g-120" value="CSV File" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" parent="JVdptQY95MM00BN9dN_g-93" vertex="1">
